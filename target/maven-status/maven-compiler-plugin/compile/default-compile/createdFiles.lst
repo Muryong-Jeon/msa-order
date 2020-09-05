@@ -1,0 +1,13 @@
+msaShop/OrderManagementApplication.class
+msaShop/config/kafka/KafkaProcessor.class
+msaShop/Order.class
+msaShop/AbstractEvent$1.class
+msaShop/PolicyHandler.class
+msaShop/Shipped.class
+msaShop/OrderCanceled.class
+msaShop/external/CancellationService.class
+msaShop/OrderMaked.class
+msaShop/external/Cancellation.class
+msaShop/OrderRepository.class
+msaShop/AbstractEvent.class
+msaShop/OrderController.class
